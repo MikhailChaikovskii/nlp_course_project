@@ -1,1 +1,3 @@
 *.csv
+chat_bot/models/
+chat_bot/results/
